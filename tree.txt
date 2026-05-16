@@ -1,0 +1,74 @@
+.
+├── data
+│   ├── Lab3
+│   │   └── freq_encoded_imputed_data.csv
+│   ├── Lab4
+│   │   ├── clean_insurance_data.csv
+│   │   └── clean_loan_data.csv
+│   ├── Lab5
+│   │   └── clean_scaled_loan_data.csv
+│   └── raw
+│       ├── Insurance.csv
+│       ├── Loan_Default.csv
+│       ├── oil_spill.csv
+│       └── titanic.csv
+├── Lab2
+│   ├── 1-Full_Intro_Preproc.ipynb
+│   └── Exercise.ipynb
+├── Lab3
+│   ├── 1-Full-Encoding&Imputation.ipynb
+│   ├── Encoding
+│   │   ├── Dummy.ipynb
+│   │   ├── Frequency.ipynb
+│   │   ├── OneHot.ipynb
+│   │   ├── Ordinal.ipynb
+│   │   └── Target.ipynb
+│   └── Imputation
+│       ├── Constant.ipynb
+│       ├── Drop.ipynb
+│       ├── Mean_Median.ipynb
+│       └── Mode.ipynb
+├── Lab4
+│   ├── 1-Scaling&Resampling.ipynb
+│   ├── Resampling
+│   │   ├── RandomOversampling.ipynb
+│   │   ├── RandomUndersampling.ipynb
+│   │   └── SMOTE.ipynb
+│   └── Scaling
+│       ├── MaxAbsolute.ipynb
+│       ├── MeanNormal.ipynb
+│       ├── MinMax.ipynb
+│       ├── Robust.ipynb
+│       └── Standardization.ipynb
+├── Lab5
+│   ├── 1-Feat Select & Dim Reduc.ipynb
+│   ├── DimensionalityReduction
+│   │   └── PCA.ipynb
+│   └── FeatureSelection
+│       ├── BackwardElimination.ipynb
+│       ├── Correlation.ipynb
+│       ├── ForwardSelection.ipynb
+│       ├── InformationGain.ipynb
+│       ├── RFE.ipynb
+│       └── VarianceThreshold.ipynb
+├── Lab6
+│   ├── Classification & Data Pipelines.ipynb
+│   ├── OilSpill_Classification.ipynb
+│   └── Titanic_Pipeline.ipynb
+├── Lab7
+│   ├── California_Regression.ipynb
+│   ├── Hyperparameter_Optimization.ipynb
+│   └── Regression.ipynb
+├── Lab8
+│   └── KMeans.ipynb
+├── Lab_8_Clustering.ipynb
+├── notes
+│   ├── data_preprocessing_cheatsheet.md
+│   ├── lecture2.md
+│   └── lectures3_4.md
+├── requirements.txt
+├── scratch
+│   └── prep_insurance.py
+└── tree.txt
+
+20 directories, 51 files
